@@ -1,0 +1,39 @@
+body {
+  background: #dec0f1;
+  font-family: 'Monoton', cursive;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapper h1 {
+  font-size: 7rem;
+  color: #b79ced;
+}
+
+.sub-wrapper {
+  width: 20vw;
+}
+
+.sub-wrapper input {
+  margin: 2%;
+}
+
+.btn {
+  background: #b79ced;
+  color: #efd9ce;
+  height: 5vh;
+  box-shadow: 2.5px 5px #957fef;
+}
+
+.wrapper p {
+  font-size: 4.8rem;
+  color: #b79ced;
+}
